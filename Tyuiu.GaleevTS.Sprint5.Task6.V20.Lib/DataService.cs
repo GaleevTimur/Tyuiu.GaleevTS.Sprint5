@@ -21,18 +21,23 @@ namespace Tyuiu.GaleevTS.Sprint5.Task6.V20.Lib
                 {
                     for (int i = 0; i < line.Length; i++)
                     {
-                        count++;
-                        if (count == 6)
+                        if (line[i] != ' ' & line[i] != '.')
                         {
-                            words++;
+                            count++;
+                            if (count == 6)
+                            {
+                                words++;
+                            }
                         }
-                        if (line[i] == ' ')
+                        else
                         {
                             count = 0;
                         }
                     }
                 }
+                
             }
+            return words;
         }
     }
 }

@@ -25,7 +25,7 @@ namespace Tyuiu.GaleevTS.Sprint5.Task6.V20
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ                                                          *");
             Console.WriteLine("****************************************************************************");
-            string path = $@"{Directory.GetCurrentDirectory()}\InPutDataFileTask6V20";
+            string path = @"C:\Users\timur_8n182p8\source\repos\Tyuiu.GaleevTS.Sprint5\Tyuiu.GaleevTS.Sprint5.Task6.V20\bin\Debug\InPutDataFileTask6V20.txt";
             Console.WriteLine("Данные находятся в файле: " + path);
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                               *");
