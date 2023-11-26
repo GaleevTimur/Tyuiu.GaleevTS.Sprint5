@@ -17,7 +17,7 @@ namespace Tyuiu.GaleevTS.Sprint5.Task5.V20
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* Спринт #5                                                                *");
             Console.WriteLine("* Тема: Обработка текстовых файлов                                         *");
-            Console.WriteLine("* Задание №6                                                               *");
+            Console.WriteLine("* Задание №5                                                               *");
             Console.WriteLine("* Вариант #20                                                              *");
             Console.WriteLine("* Выполнил: Галеев Тимур Серикович | ИИПб-23-3                             *");
             Console.WriteLine("****************************************************************************");
